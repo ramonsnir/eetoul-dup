@@ -1,0 +1,2 @@
+- service: eetoul
+  command: bash test_eetoul.sh

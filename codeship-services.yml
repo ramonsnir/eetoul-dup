@@ -1,0 +1,3 @@
+eetoul:
+  build:
+    dockerfile_path: Dockerfile
